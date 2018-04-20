@@ -1,4 +1,4 @@
 # Training
 Dendi Test Commit
 
-Test
+Test merge
